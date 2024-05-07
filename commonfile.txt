@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 edited by dev1, added another
-=======
-edited by dev1, edited by dev2
->>>>>>> b1ad339cdb434035c889287295955be57da72b07
